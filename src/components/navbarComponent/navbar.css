@@ -1,0 +1,26 @@
+.navHeight {
+    height: 80px;
+    background-color: #cb91ed;
+}
+
+.textHeight {
+    font-size: 30px;
+}
+
+.modalHeader {
+    background-color: #cb91ed;
+    color: white;
+}
+
+.buttonStyle {
+    border-color: #cb91ed;
+    color: black;
+    padding: 12px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.buttonStyle:hover{
+    background-color: #cb91ed;
+}
